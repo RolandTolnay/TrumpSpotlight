@@ -1,0 +1,5 @@
+build/
+/xcuserdata/*
+Pods/
+TrumpNation.xcodeproj/xcuserdata
+xcuserdata
